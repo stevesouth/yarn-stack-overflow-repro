@@ -2,7 +2,7 @@ This repo reproduces the following yarn issue https://github.com/yarnpkg/berry/i
 
 There are two (surprising) ways of avoiding the stack overflow being thrown.
 
-1. Copy pack1's peer dependencies into the dev depencies list
+1. Copy pack1's peer dependencies into the dev dependencies list
 
 or
 
